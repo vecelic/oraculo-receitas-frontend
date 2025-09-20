@@ -1,0 +1,19 @@
+:root {
+  --cor-pedra-noturna: #1a1a1d; /* Fundo principal, um preto suave */
+  --cor-grimorio: #2c2c34;     /* Fundo dos contêineres, um cinza escuro */
+  --cor-giz-arcano: #f0f0f0;    /* Cor do texto principal, um branco suave */
+  --cor-ametista: #9f7aea;      /* Cor de destaque mística */
+  --fonte-titulo: 'Lora', serif;
+  --fonte-corpo: 'Lato', sans-serif;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: var(--cor-pedra-noturna);
+  color: var(--cor-giz-arcano);
+  font-family: var(--fonte-corpo);
+  line-height: 1.6;
+}
