@@ -31,8 +31,8 @@ Este repositório contém apenas o **Frontend**. O repositório do Backend pode 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/vecelic/oraculo-receitas-frontend.git](https://github.com/vecelic/oraculo-receitas-frontend.git)
-    cd SEU_REPOSITORIO_FRONTEND
+    git clone https://github.com/vecelic/oraculo-receitas-frontend.git
+    cd oraculo-Receitas-frontend
     ```
 2.  **Instale as dependências:**
     ```bash
