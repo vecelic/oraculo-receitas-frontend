@@ -8,8 +8,7 @@ Interface do usuário para a aplicação Oráculo de Receitas. Uma Single-Page A
 ---
 
 ### 🎥 Demonstração
-
-[INSERIR AQUI O MESMO GIF CURTO DA APLICAÇÃO COMPLETA FUNCIONANDO.]
+![Demonstração do Oráculo de Receitas](https://github.com/vecelic/oraculo-receitas-frontend/raw/main/demonstracao/Demonstracao.gif?raw=true)
 
 ---
 
